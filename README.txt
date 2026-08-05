@@ -29,3 +29,12 @@ TEST AFTER DEPLOYMENT
 3. Test Start My Home Plan and Calculate Buying Power.
 4. Test call, text, email, and print buttons on mobile.
 5. Submit public wording and disclosures for company compliance review.
+
+V1.1 BRAND CORRECTION
+The official customer-facing brand is exactly:
+
+Mo the MLO
+
+This package replaces MO the MLO, MO THE MLO, and Mo The MLO.
+The brand bar no longer forces the name into all capital letters.
+Calculations, forms, links, photos, disclosures, and Netlify settings are otherwise preserved.
